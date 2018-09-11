@@ -1,0 +1,27 @@
+
+spotify-this-song Numb [33m[39m
+[33m    Artist:     [32mXXXTENTACION[33m[39m
+[33m    Song:       [32mNUMB[33m[39m
+[33m    Preview:    [36mnull[33m[39m
+[33m    Album:      [32m?[33m[39m
+[33m              [39m,[33m[39m
+[33m    Artist:     [32mLinkin Park[33m[39m
+[33m    Song:       [32mNumb[33m[39m
+[33m    Preview:    [36mhttps://p.scdn.co/mp3-preview/e6ccf7717f8a167bfea4afc1bf7da1a0cd707fbb?cid=e13d6a58bb0d4022858c7021a96e8519[33m[39m
+[33m    Album:      [32mMeteora[33m[39m
+[33m              [39m,[33m[39m
+[33m    Artist:     [32m21 Savage[33m[39m
+[33m    Song:       [32mNumb[33m[39m
+[33m    Preview:    [36mhttps://p.scdn.co/mp3-preview/5f079a4df65d4d33659d244af5b828d3902ef2b7?cid=e13d6a58bb0d4022858c7021a96e8519[33m[39m
+[33m    Album:      [32mIssa Album[33m[39m
+[33m              [39m,[33m[39m
+[33m    Artist:     [32mPink Floyd[33m[39m
+[33m    Song:       [32mComfortably Numb[33m[39m
+[33m    Preview:    [36mhttps://p.scdn.co/mp3-preview/daf1a7a5cf0ca8fc212ce61ac3d058fb12e2814f?cid=e13d6a58bb0d4022858c7021a96e8519[33m[39m
+[33m    Album:      [32mThe Wall[33m[39m
+[33m              [39m,[33m[39m
+[33m    Artist:     [32mHayden James[33m[39m
+[33m    Song:       [32mNUMB[33m[39m
+[33m    Preview:    [36mnull[33m[39m
+[33m    Album:      [32mNUMB[33m[39m
+[33m              [39m
